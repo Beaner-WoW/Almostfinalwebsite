@@ -155,6 +155,66 @@ font-size: 16.2px;
 this is the favorite html css code------------------------->
 */
 
+.hero{
+    height: 880px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.container05{
+    height: 800px;
+    width: 100%;
+    position: relative;
+}
+
+.top-right05{
+    positionp: absolute;
+    top: 1px;
+    margin-top: -10px;
+    right:90px;
+    font-size: 75px;
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold' , sans-serif;
+    color: white;
+    box-shadow: 15px 15px hsl(64, 87%, 55%;
+    text-align: canter;
+}
+
+.top-right05 p{
+    font-size: 35px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold' , sans-serif;
+    margin-top: -100px;
+    margin-right: -50px;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .mandm img{
     width: 650px;
