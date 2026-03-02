@@ -281,6 +281,34 @@ this is the favorite html css code------------------------->
 
 
 
+.aside img{
+    width: 400px;
+    height: auto;
+    margin: 50px;
+}
+
+.aside{
+    background-color: hsl(51, 94%, 49%);
+    width:600px;
+    padding: 50px;
+}
+
+.aside li{
+    margin: 50px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
